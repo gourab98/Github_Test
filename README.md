@@ -18,6 +18,8 @@ git clone "url_of_your_repository"
 git clone https://github.com/gourab98/Github_Test.git
 ```
 
-> After cloning that repo, Open that project with your VS code. Now you can make changes. Now you can push those changes to your remote repo. You can even do all kind of stafs from there. (For example, you can add a new file, commit those changes, push those changes to your remote repo and so on)
+> After cloning that repo, Open that project with your VS code. Now you can change or modify this. You can push those changes to your remote repo. You can even do all kind of stafs from there. (For example, you can add a new file, commit those changes, push those changes to your remote repo and so on)
 
-> In the sources control panel, you can see the status of your local and remote repo. You can commit all your changes and push those changes to your remote repo from there.
+> In the sources control panel of the left side, you can see the status of your local and remote repo. You can commit all your changes and push those changes to your remote repo from there. Then sync changes.
+
+> If syncing takes too much time, restarting VS Code might be helpful.
