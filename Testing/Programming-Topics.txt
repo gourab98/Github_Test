@@ -1,0 +1,55 @@
+- == DS course
+> == Competative Programming
+
+1. String Processing:
+	-Substring, insert, delete and other functions of string.
+	-Pattern matching algorithm 1.
+	-Pattern matching algorithm 2(using finite automata, not KMP algorithm).
+	-Levenshtein distance.
+	-Edit distance.
+
+2. Searching:
+	-Linear search.
+	-Binary search.
+
+3. Sorting:
+	-Bubble sort.
+	-Merge sort.
+	-Quick sort.
+	>Counting sort.
+
+4. Graph theory:
+	-Adjacency matrix, Adjacency list.
+	-BFS.
+	-DFS.
+	-Dijkstra.
+	-Topsort.
+	-Graph coloring(amader somoy just topic bolse, but poray nai)
+
+5. Tree:
+	-Binary tree.
+	-Binary Search Tree.
+	-Heap(min heap, max heap).
+	-Heap sort.
+	-Minimum spanning tree(Prim's algorithm, Kruskal's algorithm)(amader code koray nai)
+	>Trie.
+	>Binary indexed tree(BIT).
+	>Segment tree.
+	>Lazy propagation(Segment tree).
+
+6. Asymptotic analysis
+	-Time and space complixity of algorithms.
+	-Recurrent tree.
+	-Time complexity calculation.
+
+7. Others:
+	-Stack, queue.
+	-Linked list.
+	-Bridge, Articulation point, Huffman coding(just topic er nam bolsilo, poranor time pay nai)
+	>Suffix array(onek gula complexity er ase. sir may be O(n2Logn), O(nLogn) ei 2 ta poraise. O(n) o ase but oita onek vejal maybe).
+	>Euclid.
+	>Extended Euclid.
+	>Modular multiplicative inverse(MMI).
+	>Chinese remainder theorem.
+	>Coin change.
+	>Various hashing algorithms.
