@@ -10,7 +10,7 @@
 
 > First you have to create a new folder from where you want to manage your git repo. Then, open your command prompt from there and use that command 
 ```
-git clone "url_of_your_repository_"
+git clone "url_of_your_repository"
 ```
 (For example):
 
@@ -18,18 +18,6 @@ git clone "url_of_your_repository_"
 git clone https://github.com/gourab98/Github_Test.git
 ```
 
-> After cloning that repo, Open that project with your VS code. Now you can make changes. Now you can push those changes to your remote repo. Now you can pull those changes from your remote repo. You can even do all kind of stafs from there. 
+> After cloning that repo, Open that project with your VS code. Now you can make changes. Now you can push those changes to your remote repo. You can even do all kind of stafs from there. (For example, you can add a new file, commit those changes, push those changes to your remote repo and so on)
 
-Some necessary commands for managing your git repo from there:
-
-```
-git add .
-git commit -m "message"
-git push
-git pull
-```
-If you want to see the changes you made, you can use the command:
-
-```
-git status
-```
+> In the sources control panel, you can see the status of your local and remote repo. You can commit all your changes and push those changes to your remote repo from there.
