@@ -1,7 +1,18 @@
-# All The problems:
+# Problems:
 
-### 1. When you have a existing git repo and you want to add that repo in your local folder for managing your git repo from there!
-> First you have to create a new folder from where you want to manage your git repo. Then, open your command prompt from there and use that command (For example):
+## 1. When you have a existing git repo and you want to add that repo in your local folder for managing your git repo from there? (The solution here is using VS code)
+
+### Prerequisites:
+* Git
+* VS CODE (Have to Log in using github account)
+* Git Extension Pack (Open VS Code, Go to extensions, then install this extension)
+### Performing the following steps:
+
+> First you have to create a new folder from where you want to manage your git repo. Then, open your command prompt from there and use that command 
+```
+git clone "url_of_your_repository_"
+```
+(For example):
 
 ```
 git clone https://github.com/gourab98/Github_Test.git
